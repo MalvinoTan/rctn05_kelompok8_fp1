@@ -22,7 +22,7 @@ const About = () => {
         }
     }
 
-    const percentage = 97;
+    const percentage = 100;
 
     return (
         <div className={styles.container}>
